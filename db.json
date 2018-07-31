@@ -2,8 +2,8 @@
   "notification": [
     {
       "id": 1,
-      "title": "Noticia 1",
-      "message":"Message body test 1Message body test 1Message body test 1Message body test 1Message body test 1Message body test 1Message body test 1Message body test 1Message body test 1Message body test 1Message body test 1Message body test 1Message body test 1Message body test 1Message body test 1",
+      "title": "Bolsa de Nova York sobe 80 pts",
+      "message":"Café: Bolsa de Nova York sobe 80 pts na sessão desta 2ª feira com preocupações com próxima safra do Brasil",
       "active":1 
     },
         {

@@ -1,8 +1,34 @@
 {
-  "posts": [
+  "notification": [
     {
       "id": 1,
-      "title": "hello"
+      "title": "Noticia 1",
+      "message":"Message body test 1",
+      "active":1 
+    },
+        {
+      "id": 2,
+      "title": "Noticia 2",
+      "message":"Message body test 2",
+      "active":1 
+    },
+        {
+      "id": 3,
+      "title": "Noticia 3",
+      "message":"Message body test 3",
+      "active":1 
+    },
+        {
+      "id": 4,
+      "title": "Noticia 4",
+      "message":"Message body test 4",
+      "active":1 
+    },
+        {
+      "id": 5,
+      "title": "Noticia 5",
+      "message":"Message body test 5",
+      "active":1 
     }
   ],
   "profile": {

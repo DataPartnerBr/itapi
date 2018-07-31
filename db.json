@@ -41,6 +41,12 @@
       "tipo":"1",
       "empresa":"TRÊS CORAÇÕES ALIMENTOS S/A.",
       "marca":"Orgânico Gourmet Café Torrado",
+          "aroma":"Aroma intenso",
+          "sabor":"Sabor intenso",
+          "bebida":"Bebida intenso",
+          "corpo":"Corpo  intenso",
+          "moagem":"Moagem  intenso",
+          "torra":"Torra  intenso",          
       "active":1 
       }
   ]

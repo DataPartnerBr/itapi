@@ -33,5 +33,15 @@
   ],
   "profile": {
     "name": "typicode"
-  }
+  },
+  "sabor":[
+        {
+      "id": 1,
+      "codigo": "7896224836135",
+      "tipo":"1",
+      "empresa":"TRÊS CORAÇÕES ALIMENTOS S/A.",
+      "marca":"Orgânico Gourmet Café Torrado"
+      "active":1 
+    },
+  ]
 }

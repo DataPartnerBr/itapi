@@ -41,14 +41,14 @@
       "codBarra": "7896224836135",
       "tipo":1,
       "empresa":"TRÊS CORAÇÕES ALIMENTOS S/A.",
-      "marca":"Orgânico Gourmet Café Torrado",
-          "tipo_cafe":"Tipo Café Exemplo",
-          "aroma":"Aroma intenso Exemplo",
-          "sabor":"Sabor intenso Exemplo",
-          "bebida":"Dura Exemplo",
-          "corpo":"Corpo  intenso Exemplo",
-          "moagem":"Moagem  intenso Exemplo",
-          "torra":"Torra  intenso Exemplo",          
+      "marca":"Orgânico Gourmet Café Torrado 2",
+          "tipo_cafe":"Tipo Café Exemplo 2",
+          "aroma":"Aroma intenso Exemplo 2",
+          "sabor":"Sabor intenso Exemplo 2",
+          "bebida":"Dura Exemplo 2",
+          "corpo":"Corpo  intenso Exemplo 2",
+          "moagem":"Moagem  intenso Exemplo 2",
+          "torra":"Torra  intenso Exemplo 2",          
       "active":1 
       }
   ]

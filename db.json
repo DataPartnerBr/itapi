@@ -36,18 +36,19 @@
   },
   "sabores":[
         {
-      "id": 7896224836135,
+      "id": 1,
       "codPQC":"PQC.024.104",
-      "codigo": "7896224836135",
+      "codBarra": "7896224836135",
       "tipo":1,
       "empresa":"TRÊS CORAÇÕES ALIMENTOS S/A.",
       "marca":"Orgânico Gourmet Café Torrado",
-          "aroma":"Aroma intenso",
-          "sabor":"Sabor intenso",
-          "bebida":"Bebida intenso",
-          "corpo":"Corpo  intenso",
-          "moagem":"Moagem  intenso",
-          "torra":"Torra  intenso",          
+          "tipo_cafe":"Tipo Café Exemplo",
+          "aroma":"Aroma intenso Exemplo",
+          "sabor":"Sabor intenso Exemplo",
+          "bebida":"Dura Exemplo",
+          "corpo":"Corpo  intenso Exemplo",
+          "moagem":"Moagem  intenso Exemplo",
+          "torra":"Torra  intenso Exemplo",          
       "active":1 
       }
   ]

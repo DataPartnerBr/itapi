@@ -45,10 +45,10 @@
       "tipo_cafe":"100-conilon",
       "aroma":"intenso",
       "sabor":"regular",
-      "bebida":"Dura Exemplo 1",
-      "corpo":"Corpo  intenso Exemplo 1",
-      "moagem":"Moagem  intenso Exemplo 1",
-      "torra":"Torra  intenso Exemplo 1",          
+      "bebida":"dura",
+      "corpo":"encorpado",
+      "moagem":"fina",
+      "torra":"media-65",          
       "active":1 
       }
   ]

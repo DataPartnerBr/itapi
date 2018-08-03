@@ -37,18 +37,18 @@
   "perfil":[
         {
       "id": 1,
-      "codPQC":"PQC.024.104",
-      "codBarra": "7898930572017",
-      "empresa":"SWEET BAHIA CAFE COM. DE ALIM. LTDA.",
-      "marca":"Orgânico Gourmet Café Torrado 1",
-      "selo":"qualidade-gourmet",
-      "tipo_cafe":"100-conilon",
+      "codPQC":"PQC.195.002",
+      "codBarra": "7898119585029",
+      "empresa":"JOSE DE PADUA ALVES DA SILVA E CIA LTDA",
+      "marca":"PENGUINHA EXTRA FORTE",
+      "selo":"extra-forte",
+      "tipo_cafe":"predominante-arabica",
       "aroma":"intenso",
-      "sabor":"regular",
+      "sabor":"intenso",
       "bebida":"dura",
       "corpo":"encorpado",
       "moagem":"fina",
-      "torra":"media-65",          
+      "torra":"escura-35",          
       "active":1 
       }
   ]

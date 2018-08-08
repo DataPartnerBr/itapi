@@ -4,30 +4,48 @@
       "id": 1,
       "title": "Bolsa de Nova York sobe 80 pts",
       "message":"Café: Bolsa de Nova York sobe 80 pts na sessão desta 2ª feira com preocupações com próxima safra do Brasil",
+      "link": "",
+      "data": "08-08-2018",
       "active":1 
     },
         {
       "id": 2,
-      "title": "Noticia 2",
-      "message":"Message body test 2Message body test 2Message body test 2Message body test 2Message body test 2Message body test 2",
+      "title": "Versão Coca-Cola café é lançada no Brasil.",
+      "message":"A Coca-Cola lançou sua versão com sabor de café no Brasil. Na última semana chegou aos supermercados do país, a Coca-Cola Plus Café Espresso, nome dado ao produto que terá 40% a mais de cafeína em relação à Coca-Cola original, e 50% menos açúcar.",
+      "link": "https://www.noticiasagricolas.com.br/noticias/cafe/218722-versao-coca-cola-cafe-e-lancada-no-brasil.html#.W2roJNJKjIU",
+      "data": "08-08-2018",
       "active":1 
     },
         {
       "id": 3,
-      "title": "Noticia 3",
-      "message":"Message body test 3Message body test 3Message body test 3Message body test 3Message body test 3Message body test 3Message body test 3Message body test 3Message body test 3Message body test 3Message body test 3Message body test 3Message body test 3Message body test 3Message body test 3Message body test 3",
+      "title": "Café: Cotações do arábica sobem cerca de 100 pts nesta tarde de 3ª na Bolsa de Nova York e estendem ganhos",
+      "message":"As cotações futuras do café arábica na Bolsa de Nova York (ICE Futures US) trabalham com alta próxima de 100 pontos nesta tarde de terça-feira (07). O mercado externo do grão estende os ganhos das últimas duas sessões com cobertura de posições sendo vistas no terminal externo e também com suporte do câmbio.",
+      "link": "https://www.noticiasagricolas.com.br/noticias/cafe/218853-cafe-cotacoes-do-arabica-sobem-cerca-de-100-pts-nesta-tarde-de-3-na-bolsa-de-nova-york-e-estendem-ganhos.html#.W2roJ9JKjIU",
+      "data": "08-08-2018",
       "active":1 
     },
         {
       "id": 4,
-      "title": "Noticia 4",
-      "message":"Message body test 4Message body test 4Message body test 4Message body test 4Message body test 4Message body test 4Message body test 4Message body test 4Message body test 4Message body test 4Message body test 4Message body test 4Message body test 4Message body test 4",
+      "title": "Brasil exporta em julho menor volume de café em mais de 10 anos",
+      "message":"Apenas 1,24 mi de sacas foram exportadas em julho; quantidade representou queda de 22 por cento em relação ao 1,6 mi de igual mês de 2017",
+      "link": "https://exame.abril.com.br/economia/brasil-exporta-em-julho-menor-volume-de-cafe-em-mais-de-10-anos/",
+      "data": "08-08-2018",
       "active":1 
     },
         {
       "id": 5,
-      "title": "Noticia 5",
-      "message":"Message body test 5Message body test 5Message body test 5Message body test 5Message body test 5Message body test 5Message body test 5Message body test 5Message body test 5Message body test 5Message body test 5Message body test 5",
+      "title": "Cepea: Colheita de café robusta do Brasil deve superar estimativa oficial",
+      "message":"Clima mais propício deve auxiliar em colheita superior à estimada, de 13,7 milhões de sacas de 60 kg de café robusta, se aproximando dos 15 milhões de sacas",
+      "link": "https://exame.abril.com.br/economia/cepea-colheita-de-cafe-robusta-do-brasil-deve-superar-estimativa-oficial/",
+      "data": "08-08-2018",
+      "active":1 
+    },
+        {
+      "id": 6,
+      "title": "Café: Cotações do arábica operam com alta próxima de 80 pts nesta manhã de 3ª feira na Bolsa de NY",
+      "message":"As cotações futuras do café arábica na Bolsa de Nova York (ICE Futures US) operam com alta próxima de 80 pontos nesta manhã de terça-feira (07). Depois da queda na semana passada, o mercado externo do grão segue com suporte da cobertura de posições e estende os ganhos da véspera, que foram de mais de 100 pontos.",
+      "link": "https://www.noticiasagricolas.com.br/noticias/cafe/218819-cafe-cotacoes-do-arabica-operam-com-alta-proxima-de-80-pts-nesta-manha-de-3-feira-na-bolsa-de-ny.html#.W2sEkNJKjIU",
+      "data": "08-08-2018",
       "active":1 
     }
   ],
